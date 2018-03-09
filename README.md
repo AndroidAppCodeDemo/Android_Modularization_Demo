@@ -1,6 +1,13 @@
 # Android 组件化
 
+
+
+
 组件化的使用，实现的架构 由`单一工程模型`到 `组件化` 模型的变化。
+
+
+[alibaba/ARouter github地址](https://github.com/alibaba/ARouter)
+
 
 
 ### 单一工程模型
